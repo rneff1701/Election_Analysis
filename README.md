@@ -41,3 +41,4 @@ The analysis of the leection showed that:
 ![text output](https://user-images.githubusercontent.com/95188079/148452345-2f691266-5eee-4c4a-af60-b548bff5e87d.png)
 
 ## Challenge Summary
+With some modifications this script can be used to determine the winner of other elections.  Additional variables would be needed if the votes are captured at the State or City level instead of by County.  It could also be modified to declare an official runner up so one is available in the event that the original winner declines the position.  It could also be modified if the election results contains the voting for multiple offices (ex. Governor and Lt. Governor).
