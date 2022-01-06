@@ -38,4 +38,6 @@ The analysis of the leection showed that:
     -   Arapahoe with 6.7% of the vote and 24,801 number of votes.
 -  Denver was the county with the highest number of votes.
 
+![text output](https://user-images.githubusercontent.com/95188079/148452345-2f691266-5eee-4c4a-af60-b548bff5e87d.png)
+
 ## Challenge Summary
